@@ -1,4 +1,4 @@
-### Hellop World, My name is Yiğit [My Website](https://ygtdev.xyz/) 👋
+### Hello World, My name is Yiğit [My Website](https://ygtdev.xyz/) 👋
 <a href="https://discord.gg/CCExrpU">
   <img align="left" alt="My Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
