@@ -14,8 +14,6 @@
   Hello world my name is Yiğit. I am going to High School. I spend most of my time playing games and developing the games I play.
 </p>
 
-<img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
-
 <pre>
 “The torch kept by the Turkish nation on the path of progress and civilization is positive science.” 
                                                                                              — M. Kemal Atatürk
