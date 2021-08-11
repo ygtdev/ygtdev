@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/ 150612752610754560 )](https://discord.com/users/ 15061272610754560 )
-
 ### Hello World, My name is Yiğit [My Website](https://ygtdev.xyz/) 👋
 <a href="https://discord.gg/CCExrpU">
   <img align="left" alt="My Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
